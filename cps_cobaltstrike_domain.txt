@@ -187,6 +187,7 @@ download.windowsupdate.com
 drop.creativepictureclouds.com
 dunclikf.com
 dwgbg8vy0czhx.cloudfront.net
+dyk768uvtv1pm.cloudfront.net
 ec1.nvwa.me
 ec2-13-38-90-3.eu-west-3.compute.amazonaws.com
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com
@@ -235,6 +236,7 @@ helloworld.macpromoworld7917.workers.dev
 hewecas.com
 hilaxeten.com
 hk.fcalebook.com
+hotbunniesnft.art
 http.sectorzerosecurity.com
 httpsys.azureedge.net
 hur.wolftaam.xyz
