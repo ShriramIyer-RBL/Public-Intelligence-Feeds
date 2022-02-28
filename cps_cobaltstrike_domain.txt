@@ -525,6 +525,7 @@ watson.telemetry.microsoft.com.ansatc.net
 webmail.igovservice.com
 webmail.igovservice.net
 weibo.com
+whoami.ze.lu
 windatabases.com
 windows-update.online
 windowsupdate.outssystems.com
