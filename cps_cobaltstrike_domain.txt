@@ -86,7 +86,6 @@ cdn.static.ettiao.com
 cdn.vsassets.io
 cdn1.test.xseclab.com
 cert.securelogonweb.com
-certmatic.net
 chikagobi.com
 china-gong-an.ga
 chinatelecomglobal.sentrylab.cn
@@ -256,6 +255,7 @@ inteldeveloperforum.com
 ipaysites.com
 ispsystemdemo.xyz
 italbara.com
+itctka4v.club
 jardinoks.com
 javascript-cdn.azureedge.net
 jdk9.jp.ngrok.io
@@ -368,6 +368,7 @@ rsasecu.com
 ruhezepu.com
 sagebusiness.biz
 sakapocaj.com
+sashimis.co.uk
 sbronm.com
 secsys1-c2-1.NewcastleFlyingCows.xyz
 service-05ckme8a-1304865419.gz.apigw.tencentcs.com
@@ -484,6 +485,7 @@ test.ssrserver-update.xyz
 test1.baidu.com
 test1.baidu.com.dsa.dnsv1.com
 theshuaianow.xyz
+tiger.lastcat.co.uk
 tiger.lastcat.co.uk
 tmall.com
 tomezica.com
