@@ -86,6 +86,7 @@ cdn.static.ettiao.com
 cdn.vsassets.io
 cdn1.test.xseclab.com
 cert.securelogonweb.com
+certmatic.net
 chikagobi.com
 china-gong-an.ga
 chinatelecomglobal.sentrylab.cn
@@ -255,7 +256,6 @@ inteldeveloperforum.com
 ipaysites.com
 ispsystemdemo.xyz
 italbara.com
-itctka4v.club
 jardinoks.com
 javascript-cdn.azureedge.net
 jdk9.jp.ngrok.io
@@ -586,6 +586,7 @@ www.superqq.top
 www.tophant.com
 www.updateservices.org
 www.wangzha156.xyz
+www.weixinapidev.com
 www.windows-services.com
 www.yieldguide.ag
 www.youtube.com
