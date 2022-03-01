@@ -430,6 +430,7 @@ mosaeri.com
 mosilver.rest
 mosite.rest
 mosmart.club
+mosmart.rest
 mosmarty.rest
 mosomol.rest
 mosupport.rest
