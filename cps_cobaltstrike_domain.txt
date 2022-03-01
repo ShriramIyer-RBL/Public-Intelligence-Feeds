@@ -119,7 +119,9 @@ cuphq.com
 customsecurityusa.com
 d1021gpwtn238p.cloudfront.net
 d10pgfie85c852.cloudfront.net
+d11tkk5xyuecgl.cloudfront.net
 d12hyv65uloccy.cloudfront.net
+d16zt6n9trmm5l.cloudfront.net
 d1790nfju49ir3.cloudfront.net
 d17vsbxs3f9iz4.cloudfront.net
 d18krv932r2kbr.cloudfront.net
@@ -141,6 +143,8 @@ d2ejs4616t9qdy.cloudfront.net
 d2g37k1rs1nihw.cloudfront.net
 d2hfnmdp43cgrh.cloudfront.net
 d2hx7g7ejleo7u.cloudfront.net
+d2q25qam303z46.cloudfront.net
+d2v3m77iwnc15k.cloudfront.net
 d2w5xnioi4r4gb.cloudfront.net
 d30bham075f6wf.cloudfront.net
 d31v968qrf5730.cloudfront.net
@@ -280,6 +284,7 @@ kredowatcher.ddns.net
 ksplsoft.com
 lacamesabo.com
 lawapuyal.com
+lifegothistory.com
 linksrepository.com
 lives.freemeyum.com
 lyncdiscover.next-support.net
@@ -368,7 +373,6 @@ rsasecu.com
 ruhezepu.com
 sagebusiness.biz
 sakapocaj.com
-sashimis.co.uk
 sbronm.com
 secsys1-c2-1.NewcastleFlyingCows.xyz
 service-05ckme8a-1304865419.gz.apigw.tencentcs.com
@@ -442,6 +446,7 @@ service-q8a0k7qc-1304922690.sg.apigw.tencentcs.com
 service-qc91wi4n-1251260166.sh.apigw.tencentcs.com
 service-qgzetff2-1255401124.gz.apigw.tencentcs.com
 service-qjngm1n2-1305965917.gz.apigw.tencentcs.com
+service-qnkl4z3f-1309697666.bj.apigw.tencentcs.com
 service-qouy1ite-1309097015.gz.apigw.tencentcs.com
 service-rne74uco-1305831073.gz.apigw.tencentcs.com
 service.serviceclv-firefox.com
@@ -485,7 +490,6 @@ test.ssrserver-update.xyz
 test1.baidu.com
 test1.baidu.com.dsa.dnsv1.com
 theshuaianow.xyz
-tiger.lastcat.co.uk
 tiger.lastcat.co.uk
 tmall.com
 tomezica.com
