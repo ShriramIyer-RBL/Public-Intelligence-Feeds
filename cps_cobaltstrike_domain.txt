@@ -17,8 +17,10 @@ aiplasp.org
 aiplasp.tk
 alivod.med126.com
 aliyunecss.xyz
+aliyunn.cc
 amazon.alikunlun.com
 amazon.alikunlun.com.cdn.dnsv1.com
+amazon.aliyunn.cc
 amazon.co.jp
 analytics.betas.cl
 anquan.qianxin.com
@@ -26,8 +28,6 @@ anquan.qianxin.com.dsa.dnsv1.com
 antiquity-merchant.com
 anzhuo.xxxxxxxlm.tk
 ap-southeast-1.prod.pr.analytics.amazon.com.amazonaws.la
-api.360.net
-api.360.net.cdn.dnsv1.com
 api.caipiaosms.com
 api.csdbj.xyz
 api.manxtelecon.com
@@ -232,9 +232,7 @@ microsoftupdateapp.com
 migrdeb.com
 mikrosoftupdate.com
 mini.hkaclublol.com
-modelscout.gq
 monadore.top
-mr.un1k0d3r.com
 msn.com
 mysqlupdateserver.com
 myteamserver.online
@@ -293,7 +291,6 @@ service-05ckme8a-1304865419.gz.apigw.tencentcs.com
 service-18vi4kp0-1302498057.gz.apigw.tencentcs.com
 service-2whhgrvl-1309729421.sh.apigw.tencentcs.com
 service-3vkjh0i2-1253759078.gz.apigw.tencentcs.com
-service-5uafdphd-1258031921.bj.apigw.tencentcs.com
 service-6hy8qsm9-1256221102.bj.apigw.tencentcs.com
 service-6m5v6j3f-1304659738.bj.apigw.tencentcs.com
 service-7101u8gd-1259312707.bj.apigw.tencentcs.com
