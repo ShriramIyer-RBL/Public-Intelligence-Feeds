@@ -85,7 +85,6 @@ cs1.zhyzt.cn
 ctldl.azureedge.net
 cuphq.com
 customsecurityusa.com
-d10pgfie85c852.cloudfront.net
 d11tkk5xyuecgl.cloudfront.net
 d12hyv65uloccy.cloudfront.net
 d16zt6n9trmm5l.cloudfront.net
@@ -156,6 +155,7 @@ fgy67vbu.dns1.us
 flamingo.info-assurance.cc
 flashd.org
 flashx.ink
+fnmsdtx.aliyundemo.com
 fortinetdirect.com
 fuckuman.google.cn
 fullwaf.com
@@ -184,6 +184,7 @@ hiyevila.com
 hk.fcalebook.com
 hotbunniesnft.art
 httpsys.azureedge.net
+hur.wolftaam.xyz
 iamhealthytoday.com
 img6.2345.com
 imsensors.com
@@ -266,6 +267,7 @@ propertyexpoandshowcase.com
 proxy.tututu.live
 put.mywire.org
 pwserver.soqian.info
+qaz668.com
 qianixin.ga
 qq.com
 r2t7g6v3.hostrycdn.com
