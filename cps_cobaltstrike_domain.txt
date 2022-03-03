@@ -38,7 +38,6 @@ api.velveticejewels.com
 apiendpoints.azureedge.net
 appdownload.wbiao.cn
 ascssdovsovosdvkodsvjdjbodi.cctv789.org
-ashenone1221.com
 ashurt.live
 asismdnu.asisdns.space
 aspnet0sys.tk
@@ -59,6 +58,7 @@ c2.ptca-irs.org
 cc1.bblq.club
 cdn.ag-playgame.com
 cdn.agyl888.com
+cdn.rc-rotterdamkralingen.nl
 cdn.static.ettiao.com
 cdn.vsassets.io
 cdn1.test.xseclab.com
@@ -84,7 +84,6 @@ cs.zsqiji.com
 cs1.zhyzt.cn
 ctldl.azureedge.net
 cuphq.com
-customsecurityusa.com
 d11tkk5xyuecgl.cloudfront.net
 d12hyv65uloccy.cloudfront.net
 d16zt6n9trmm5l.cloudfront.net
@@ -166,6 +165,7 @@ gelmutol.com
 germanzup.com
 gfjjblnoihugfjdrhcjgvhb.com
 gida1.net
+gitcomputer.dynamic-dns.net
 google-think.tk
 google.it
 googlechromeupdater.twilightparadox.com
@@ -200,7 +200,6 @@ jdk9.jp.ngrok.io
 jhurbad.com
 johnsjennifer.com
 johnsjennifer.com
-joinc2.net
 jquerycdnservice.com
 js.msedgeupdate.com
 k01.forgottentok2.xyz
@@ -213,7 +212,6 @@ ksplsoft.com
 lacamesabo.com
 ledikexive.com
 lifegothistory.com
-lives.freemeyum.com
 lyncdiscover.next-support.net
 m.wld.net
 mahsey.net
@@ -222,6 +220,7 @@ mail.chinatelecom-hr.com
 mail.chiqitue.com
 mail.johnsjennifer.com
 mail.rodinscoldly.com
+mail.ru
 mails.uksouth.cloudapp.azure.com
 man-x.cc
 markets.1stopfinanceshopuk.com
@@ -275,6 +274,7 @@ rczp.jia.com
 rdadev.com
 recovery.recoverywindows.workers.dev
 reddit.com
+registryservicesupd.com
 remote.nedsecures.co.za
 rijkzijn.nl
 rodinscoldly.com
@@ -283,6 +283,7 @@ routinghardware.com
 rs1.us
 rsasecu.com
 ruhezepu.com
+ruxabocobo.com
 sashimis.co.uk
 sbronm.com
 secsys1-c2-1.NewcastleFlyingCows.xyz
@@ -379,6 +380,7 @@ update.micosoft.org
 update.microsoft.com
 update.newsweatherspot.com
 update.pinyin.pw
+updatemlcrosoft.com
 updatenotepadplus.ml
 updateservices.org
 upgrade-services.com
@@ -458,3 +460,4 @@ yopole.com
 zeronyk.com
 zf.zsqiji.com
 zizexa.com
+zjlserver.top

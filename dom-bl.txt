@@ -451,6 +451,8 @@ mosmart.rest
 mosmarty.rest
 mosomol.rest
 mosupport.rest
+moteam.rest
+moticket.rest
 moxshop.club
 moxsite.club
 msceosri.com
